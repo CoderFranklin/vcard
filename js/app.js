@@ -45,6 +45,7 @@ let cardApp = (data) => {
         justify-content: center;
         align-items: center;
         backdrop-filter: blur(40px);
+        
     }
     .card__wrapper{
         padding: 20px 20px 3rem 20px;
@@ -56,6 +57,7 @@ let cardApp = (data) => {
         display: flex;
         flex-direction: column;
         align-items: center;
+        box-shadow: .12rem .4rem 2.5rem blue;
     }
     .card__user-img{
         border: 2px solid #2c5eff;
