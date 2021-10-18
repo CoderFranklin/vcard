@@ -57,7 +57,9 @@ let cardApp = (data) => {
         display: flex;
         flex-direction: column;
         align-items: center;
-        box-shadow: .12rem .4rem 2.5rem blue;
+        box-shadow: 0px 1px 7px 9px rgba(255,36,16,0.74), 0px 1px 7px 9px rgba(214,24,160,0.74); 
+        box-shadow: 0px 1px 7px 9px rgba(255,36,16,0.74), 0px 1px 7px 9px rgba(214,24,160,0.74);
+
     }
     .card__user-img{
         border: 2px solid #2c5eff;
