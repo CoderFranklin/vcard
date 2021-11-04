@@ -59,7 +59,7 @@ let cardApp = (data) => {
         align-items: center;
         box-shadow: 0px 1px 7px 9px rgba(255,36,16,0.3), 0px 1px 7px 9px rgba(214,24,160,0.3); 
         box-shadow: 0px 1px 7px 9px rgba(255,36,16,1), 0px 1px 7px 9px rgba(214,24,160,1);
-
+      
     }
     .card__user-img{
         border: 2px solid #2c5eff;
