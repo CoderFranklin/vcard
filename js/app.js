@@ -48,9 +48,9 @@ let cardApp = (data) => {
         
     }
     .card__wrapper{
-        padding: 20px 20px 3rem 20px;
-        max-width: 300px;
-        width: 300px;
+        padding: 20px 20px 2rem 20px;
+        max-width: 280px;
+        width: 280px;
         background: white;
         box-shadow: 0px 0px 62px 0px rgba(0,0,0, .22);
         border-radius: 10px;
